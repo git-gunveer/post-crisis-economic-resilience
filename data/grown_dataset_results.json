@@ -1,0 +1,14 @@
+{
+  "data_points": 5805,
+  "months": "2012-01 to 2022-12",
+  "places": 17,
+  "industries": 30,
+  "total_retail_change_feb_to_mar_2020_percent": -11.66,
+  "total_retail_change_feb_to_apr_2020_percent": -32.49,
+  "top_panic_industry_mar_2020": "Supermarkets and other grocery (except convenience) stores\u00a0 [44511]",
+  "top_panic_score_mar_2020": 40.1,
+  "top_panic_change_mar_2020_percent": 28.45,
+  "lowest_panic_industry_mar_2020": "Shoe stores [4482]",
+  "lowest_panic_score_mar_2020": -42.09,
+  "source": "Statistics Canada Table 20-10-0008-01, https://www150.statcan.gc.ca/n1/tbl/csv/20100008-eng.zip"
+}
